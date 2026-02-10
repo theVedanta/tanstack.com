@@ -57,7 +57,7 @@ export default Todos`,
     },
     preact: {
       lang: 'tsx',
-      code: `import { useQuery } from '@tanstack/react-query'
+      code: `import { useQuery } from '@tanstack/preact-query'
 
 function Todos() {
   const { data, isPending, error } = useQuery({
