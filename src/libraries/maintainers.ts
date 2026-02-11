@@ -211,7 +211,7 @@ export const allMaintainers: Maintainer[] = [
     name: 'Vedanta Somnathe',
     avatar: 'https://github.com/theVedanta.png',
     github: 'theVedanta',
-    maintainerOf: ['query'],
+    maintainerOf: ['query', 'pacer'],
     frameworkExpertise: ['preact', 'angular'],
     social: {
       website: 'https://vedantas.xyz/',
